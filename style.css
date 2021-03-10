@@ -1,0 +1,115 @@
+.header{
+    padding: 1%;
+    background-color: rgb(59, 135, 202);
+}
+
+#logo{
+    float: left;
+}
+
+#logo img{
+    width: 150px;
+    height: 150px;
+}
+
+#imgh{
+    text-align: right;
+}
+
+#imgh img{
+    background-color: grey;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+#imgh img:hover{
+    opacity: 0.3;
+    width: 150px;
+}
+
+.sign{
+    background-color: grey;
+    border-radius: 10px;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+.sign:hover{
+    opacity: 0.3;
+    font-size: 75px;
+}
+
+#content{
+    padding: 5%;
+    background-color: aqua;
+}
+
+#text img{
+    float: right;
+    width: 50%;
+    height: 50%;
+    
+    /* width: 500px;
+    height: 500px; */
+}
+
+#judul{
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+#isi{
+    font-size: 25px
+}
+
+#service{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+#service img{
+    height: 100px;
+    width: 100px;
+    float: left; 
+    margin-left: 20%;
+}
+
+.kataservice{
+    float: left;
+    margin-left: 17%;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+#foot{
+    float: left;
+    color: white;
+    font-size: 30px;
+
+}
+#foot1{
+    color: white; 
+    text-align: right;
+    font-size: 30px;
+}
+
+#foot1 a{
+    text-decoration: none;
+}
+
+#foot1 img:hover{
+    opacity: 0.3;
+    width: 70px;
+}
